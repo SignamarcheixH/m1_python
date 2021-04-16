@@ -34,7 +34,7 @@ django-allauth==0.39.1
 django-appconf==1.0.3
 django-ckeditor==5.7.1
 django-cors-headers==2.5.2
-django-debug-toolbar==1.11
+django-debug-toolbar==1.11.1
 django-extensions==2.1.9
 django-extra-fields==1.2.3
 django-factory==0.11
